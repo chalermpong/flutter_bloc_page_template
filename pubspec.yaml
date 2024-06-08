@@ -1,7 +1,7 @@
 name: flutter_bloc_page_template
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/chalermpong/flutter_bloc_page_template
 
 environment:
   sdk: ^3.3.4
